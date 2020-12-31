@@ -1,0 +1,53 @@
+ScientificName_accepted
+Amathia verticillata
+Amphibalanus amphitrite
+Aplysia dactylomela
+Austrominius modestus
+Balanus trigonus
+Beania maxilladentata
+Bedeva paivae
+Botrylloides niger
+Botryllus schlosseri
+Branchiomma bairdi
+Bugula neritina
+Bugulina simplex
+Bugulina stolonifera
+Caprella scaura
+Celleporaria inaudita
+Clavelina dellavallei
+Clavelina lepadiformis
+Cradoscrupocellaria bertholletii
+Crambe crambe
+Didemnum perlucidum
+Distaplia corolla
+Ectopleura crocea
+Eudistoma angolanum
+Exaiptasia diaphana
+Haliclona (Rhizoniera) indistincta
+Hexaplex trunculus
+Kirchenpaueria halecioides
+Lyrodus pedicellatus
+Microcosmus squamiger
+Millepora alcicornis
+Mycale (Carmia) senegalensis
+Obelia dichotoma
+Paracerceis sculpta
+Paraleucilla magna
+Parasmittina alba
+Parasmittina multiaviculata
+Parasmittina protecta
+Pileolaria berkeleyana
+Pisa carinimana
+Psiloteredo megotara
+Pycnoclavella taureanensis
+Reptadeonella violacea
+Schizoporella pungens
+Sphaeroma walkeri
+Spirorbis (Spirorbis) marioni
+Styela canopus
+Symplegma brakenhielmi
+Tonna pennata
+Truncatella subcylindrica
+Vallicula multiformis
+Virididentula dentata
+Watersipora subtorquata
